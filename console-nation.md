@@ -15,7 +15,7 @@ We collect Device Information using the following technologies:
 
 Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.  We refer to this information as “Order Information.”
 
-Location data is collected everytime you use the app / website for the finding relative distance between users as well as the preferred trading locations of each user.
+Location data is collected everytime you use the app / website for the finding relative distance between users as well as the preferred trading locations of each user and other features the app / website provides.
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
