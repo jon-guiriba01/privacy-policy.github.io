@@ -1,6 +1,6 @@
 **Between** Jon Guiriba
 
-**And** Trina Lunzaga.
+**And** Trina Lunzaga, Keisha Salviejo, Cheska Chua.
 
 ### Summary:
 
